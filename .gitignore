@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.out.dSYM
+
+# vscode
+.vscode/
